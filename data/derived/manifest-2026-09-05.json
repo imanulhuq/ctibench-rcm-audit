@@ -1,0 +1,13 @@
+{
+  "pull_date": "2026-09-05",
+  "window": [
+    "2026-01-01",
+    "2026-09-05"
+  ],
+  "n_raw": 61478,
+  "n_clean": 34959,
+  "n_matched": 6648,
+  "n_gate": 34959,
+  "verdict": "GREEN - full paper",
+  "seed": 20261005
+}
